@@ -10,8 +10,7 @@ I'm a **Software Engineering** student at ITESO, currently in my **second semest
 - 🏗 **Projects:** Working on personal projects to improve my backend and framework skills
 
 ### 🌍 Connect With Me
-- 💌 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [linkedin.com/in/mr-Mariano](https://www.linkedin.com/in/mariano-romo/)
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ### 🎯 Fun Fact
