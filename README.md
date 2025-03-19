@@ -11,7 +11,7 @@ I'm a **Software Engineering** student at ITESO, currently in my **second semest
 
 ### 🌍 Connect With Me
 - 💼 LinkedIn: [linkedin.com/in/mr-Mariano](https://www.linkedin.com/in/mariano-romo/)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 🌐 Portfolio: [mariano.com](https://marianoromo.netlify.app/)
 
 ### 🎯 Fun Fact
 I enjoy coding challenges, learning new technologies, and I’m a huge **FC Bayern** fan! ⚽🔥
