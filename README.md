@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Mariano
 
-I'm a **Software Engineering** student at ITESO, currently in my **second semester**. I'm passionate about **web development, backend technologies, and AI**.
+I'm a **Software Engineering** student at ITESO, currently in my **third semester**. I'm passionate about **web development, backend technologies, and AI**.
 
 ### 🚀 About Me
 - 🎯 **Currently Learning:** Backend development, databases, and various frameworks
